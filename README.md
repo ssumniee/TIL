@@ -13,29 +13,27 @@
 
 ## 분류
 
-### JavaScript
-
-#### 기초
+#### JavaScript
 
 - [01. 변수](https://github.com/ssumniee/TIL/blob/main/JavaScript/01_variable.md)
 - [02. 타입](https://github.com/ssumniee/TIL/blob/main/JavaScript/02_type.md)
 
-### Node.js
+#### Node.js
 
-### HTML
+#### HTML
 
-### CSS
+#### CSS
 
-### React
+#### React
 
-### Redux
+#### Redux
 
-### Git
+#### Git
 
-### Linux
+#### Linux
 
-### Algorithm
+#### Algorithm
 
-### HTTP
+#### HTTP
 
-### Database
+#### Database
