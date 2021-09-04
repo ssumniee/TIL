@@ -15,6 +15,10 @@
 
 ### JavaScript
 
+#### 기초
+
+- [변수]()
+
 ### Node.js
 
 ### HTML
