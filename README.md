@@ -14,3 +14,29 @@
 - 해당 문서를 다시 봤을 때 추가적인 검색이 필요하지 않도록 자세히 기록합니다.
 - Reference를 명시하며 원작자가 허용하는 자료만 사용합니다.
 - Contributions를 채우는 것에 집착하지 않습니다.
+
+## 분류
+
+---
+
+### JavaScript
+
+### Node.js
+
+### HTML
+
+### CSS
+
+### React
+
+### Redux
+
+### Git
+
+### Linux
+
+### Algorithm
+
+### HTTP
+
+### Database
