@@ -21,35 +21,35 @@
 
 #### String
 
-- 문자열을 나타내는 변수 타입이다.
+> 문자열을 나타내는 변수 타입이다.
 
-  ```js
-  let name = "leezy"; // string
-  ```
+```js
+let name = "leezy"; // string
+```
 
 #### Number
 
-- 숫자를 나타내는 변수 타입이다.
+> 숫자를 나타내는 변수 타입이다.
 
-  ```js
-  let age = 100; // number
-  ```
+```js
+let age = 100; // number
+```
 
 #### Boolean
 
-- 참/거짓을 나타내는 변수 타입이다.
+> 참/거짓을 나타내는 변수 타입이다.
 
-  ```js
-  let isAdult = true; // boolean
-  ```
+```js
+let isAdult = true; // boolean
+```
 
 #### Undefined
 
-- 값이 할당되지 않음을 나타내는 변수 타입이다.
+> 값이 할당되지 않음을 나타내는 변수 타입이다.
 
-  ```js
-  let foo; // undefined
-  ```
+```js
+let foo; // undefined
+```
 
 #
 
