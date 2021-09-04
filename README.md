@@ -17,8 +17,8 @@
 
 #### 기초
 
-- [변수]()
-- [타입]()
+- [변수](https://github.com/ssumniee/TIL/blob/main/JavaScript/variable.md)
+- [타입](https://github.com/ssumniee/TIL/blob/main/JavaScript/type.md)
 
 ### Node.js
 
